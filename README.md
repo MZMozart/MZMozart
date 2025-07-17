@@ -1,4 +1,4 @@
-<h1 align="left">Gabriel Tamais Fischer👋</h1>
+<h1 align="left">Gabriel Tamais Fischer</h1>
 
 ###
 
