@@ -68,7 +68,7 @@
   <a href="https://www.linkedin.com/in/gabriel-tamais-fischer-50b3a6282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MZMozart/MZMozart/output/github-contribution-grid-snake-dark.svg">
