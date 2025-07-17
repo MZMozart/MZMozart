@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome e Gabriel e sou de São Bernardo do Campo</p>
+<p align="left">Desenvolvedor FullStack</p>
 
 ###
 
